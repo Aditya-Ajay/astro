@@ -77,7 +77,7 @@ function App() {
     <div className="app">
       <div className="chat-container">
         <header className="chat-header">
-          <h1>🔮 ASTHA LOVES ADITYA ASTROLOGY MODEL</h1>
+          <h1>🔮 ASTHA ASTROLOGY</h1>
         </header>
         
         <div className="messages">
